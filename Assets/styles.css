@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-size: 16px;
+    background: rgba(236, 226, 198, 0.3) /* fallback for old browsers */
+
+}
+.profile{
+    height: 50px;
+}
+#botonCopiar{
+    display:none
+}
+
+#mensajeEncriptado, #mensajeDesencriptado{
+    resize: none;
+}
